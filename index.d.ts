@@ -291,6 +291,7 @@ export const CachesDirectoryPath: string
 export const ExternalCachesDirectoryPath: string
 export const DownloadDirectoryPath: string
 export const DocumentDirectoryPath: string
+export const ApplicationSupportDirectoryPath: string;
 export const ExternalDirectoryPath: string
 export const ExternalStorageDirectoryPath: string
 export const TemporaryDirectoryPath: string
